@@ -10,7 +10,7 @@ El siguiente programa tiene como propósito simular el comportamiento de un vide
 
 Detalles de entraga:
 
-Se implementó y enfocó la herencia en los modos de juego, incluyendo polimorismo y clases abstractas, las demás clases emplean métodos para modificar parámetros de información que se desplegarán al jugador y que podrá cambiar a voluntad.
+Se implementó y enfocó la herencia en los modos de juego, incluyendo polimorismo y clases abstractas, las demás clases son composición o agregación y emplean métodos para modificar parámetros de información que se desplegarán al jugador y que podrá cambiar a voluntad.
 
 Descripción:
 
